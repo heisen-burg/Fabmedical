@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Suffix": {
-      "value": "kkk"
+      "value": "ppp"
     },
     "VirtualMachineAdminUsernameLinux": {
       "value": "adminfabmedical"
